@@ -2,6 +2,9 @@
 ## Name:傅瑞賢
 ## SID:c11318722123
 
+ls ##查看使用者
+cd .\資料夾##進入資料夾
+
    git status
    git add .
   git commit -m "second update"
